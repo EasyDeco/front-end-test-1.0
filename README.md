@@ -1,7 +1,9 @@
 # EasyDeco
 
 Quer trabalhar em uma startup de alto crescimento e fazer parte da nossa missão de transformar a vida das pessoas fazendo a casa dos sonhos possível para todos?
+
 Nosso time de desenvolvimento é parte crucial nessa jornada e estamos sempre em busca de pessoas engajadas, motivadas e apaixonadas por tecnologia!
+
 Venha fazer parte desse time e ter contato com tecnologias de ponta, pessoas experientes (gente boa) além de ser desafiado a melhorar e aprender uma coisa nova todos dias.
 
 ## Descrição do teste
