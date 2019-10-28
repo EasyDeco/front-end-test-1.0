@@ -6,6 +6,8 @@ Nosso time de desenvolvimento é parte crucial nessa jornada e estamos sempre em
 
 Venha fazer parte desse time e ter contato com tecnologias de ponta, pessoas experientes (gente boa) além de ser desafiado a melhorar e aprender uma coisa nova todos dias.
 
+![](giphy.gif)
+
 ## Descrição do teste
 
 Você deverá criar um CRUDL (Create/Read/Update/Delete/List) simples de um cadastro de arquiteta com Nome, Telefone, Email, Senha e Foto. 
