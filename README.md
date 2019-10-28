@@ -12,7 +12,7 @@ Venha fazer parte desse time e ter contato com tecnologias de ponta, pessoas exp
 
 Você deverá criar um CRUDL (Create/Read/Update/Delete/List) simples de um cadastro de arquiteta com Nome, Telefone, Email, Senha e Foto. 
 
-Não se preocupe com a parte de salvar os dados em um servidor. O intuito desse teste é testar o front-end e por isso, basta que a interface esteja funcionando corretamente, ou seja, no momento que o cliente insere corretamente os dados basta exibir uma mensagem de sucesso no front-end. 
+Não se preocupe com a parte de salvar os dados em um servidor. O intuito desse teste é validar os conhecimentos em front-end e por isso basta que a interface esteja funcionando corretamente, ou seja, no momento que o cliente insere corretamente os dados basta exibir uma mensagem de sucesso no front-end. 
 
 Quanto a listagem, pode-se inserir dados na mão para validar a interface. Não é necessário buscar os dados em nenhum servidor ou API.
 
@@ -32,3 +32,9 @@ Nice to have:
 
 - Layout Responsivo (Desktop e mobile layouts)
 - Animações em CSS/Javascript
+
+## Prazo
+
+**VOCÊ TEM 5 DIAS A PARTIR DO RECEBIMENTO DO TESTE PARA NOS ENVIAR O CÓDIGO :)** 
+
+### BOA SORTE!
