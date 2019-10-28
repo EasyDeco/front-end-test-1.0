@@ -1,4 +1,4 @@
-# EasyDeco
+# EasyDeco - Teste para vaga de Frond-End
 
 Quer trabalhar em uma startup de alto crescimento e fazer parte da nossa missão de transformar a vida das pessoas fazendo a casa dos sonhos possível para todos?
 
